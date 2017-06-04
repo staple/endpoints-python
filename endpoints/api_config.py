@@ -46,7 +46,7 @@ from protorpc import messages
 from protorpc import remote
 from protorpc import util
 
-import resource_container
+from endpoints import resource_container
 import users_id_token
 import util as endpoints_util
 
